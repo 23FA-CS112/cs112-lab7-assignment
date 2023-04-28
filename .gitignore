@@ -36,3 +36,5 @@ Thumbs.db
 /*.dSYM/
 lab7
 tester
+core
+.nfs*
